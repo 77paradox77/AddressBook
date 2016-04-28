@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="EmailTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2016-04-28T22:51:05" hostname="epicodus-30.local" time="0.001">
+  <properties/>
+  <testcase name="Email_returnTypeCorrectly_type" classname="EmailTest" time="0.0"/>
+  <testcase name="Email_returnAddressCorrectly_address" classname="EmailTest" time="0.0"/>
+  <testcase name="Email_instantiatesCorrectly_true" classname="EmailTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
